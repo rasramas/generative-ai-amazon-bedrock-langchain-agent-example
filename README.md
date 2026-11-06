@@ -10,7 +10,7 @@
 - [Clean Up](#clean-up)
 
 ## Overview
-Generative AI agents are capable of producing human-like responses and engaging in natural language conversations by orchestrating a chain of calls to foundation models (FMs) and other augmenting tools based on user input. Instead of only fulfilling pre-defined intents through a static decision tree, agents are autonomous within the context of their suite of available tools. [Amazon Bedrock](https://aws.amazon.com/bedrock/) is a fully managed service that makes leading foundation models from AI companies available through an API along with developer tooling to help build and scale generative AI applications.
+Gen AI agents are capable of producing human-like responses and engaging in natural language conversations by orchestrating a chain of calls to foundation models (FMs) and other augmenting tools based on user input. Instead of only fulfilling pre-defined intents through a static decision tree, agents are autonomous within the context of their suite of available tools. [Amazon Bedrock](https://aws.amazon.com/bedrock/) is a fully managed service that makes leading foundation models from AI companies available through an API along with developer tooling to help build and scale generative AI applications.
 
 This sample solution creates a generative AI financial services agent powered by Amazon Bedrock. The agent can assist users with finding their account information, completing a loan application, or answering natural language questions while also citing sources for the provided answers. This solution is intended to act as a launchpad for developers to create their own personalized conversational agents for various applications, such as chatbots, virtual assistants, and customer support systems.
 
